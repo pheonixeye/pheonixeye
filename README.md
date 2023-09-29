@@ -35,7 +35,7 @@ I'm a Front End Developer based in Egypt 🙏, I am passionate about open-source
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/pheonixeye"><img alt="jay's Activity Graph" src="https://github-readme-activity-graph.cyclic.app?username=pheonixeye&custom_title=Kareem's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/pheonixeye"><img alt="Kareem's Activity Graph" src="https://github-readme-activity-graph.vercel.app?username=pheonixeye&custom_title=Kareem's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 
@@ -43,8 +43,8 @@ I'm a Front End Developer based in Egypt 🙏, I am passionate about open-source
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href=""><img src="https://drkaz.dev/favicon.png" alt="Website"/></a>
-	<a href="mailto:drkaz@live.com"><img src="https://icons8.com/icon/ut6gQeo5pNqf/microsoft-outlook-2019" title='Email' alt="Email"/></a>
+ 	<a href=""><img src="https://drkaz.dev/favicon.png" alt="Website"/></a>
+	<a href="mailto:drkaz@live.com"><img src="https://icons8.com/icon/vFWG4VOBsJTW/microsoft-outlook-2019" title='Email' alt="Email"/></a>
 	<a href="https://github.com/pheonixeye"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="www.linkedin.com/in/kareem-zaher"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/kareem_zaher_"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
