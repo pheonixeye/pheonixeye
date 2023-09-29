@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi , I'm KareemZaher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/pheonixeye"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Flutter%20|%2Dart%20|%20React%20Javascript;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/pheonixeye"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;|%20Flutter%20|%20Dart%20|%20React%20|%20Javascript%20|;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<!-- I am a Self Taught Flutter & Dart Developer.I've Built & Deployed Many Android, Windows & Web apps Using Dart & Flutter. Currently I'm Learning React To Augment My FrontEnd Skills. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
+<h3>
+I am a Self Taught Flutter & Dart Developer.I've Built & Deployed Many Android, Windows & Web apps Using Dart & Flutter. Currently I'm Learning React To Augment My FrontEnd Skills. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </h3>
 
 <h4 align="center">
-I'm a Front End Developer based in Egypt 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
+I'm based in Egypt, Cairo 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
